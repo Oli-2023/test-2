@@ -1,0 +1,16 @@
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title> homesick </title>
+</head>
+<body bgcolor="yellow">
+<p>i was really happy but a little bit homsick a lot during the vacation .</p>
+
+<p>Link to a <a href="child/index.html">child file</a></p>
+<p>Fun with images:</p>
+
+<img src="1picture.jpg">
+
+
+</body>
+</html>
